@@ -32,3 +32,5 @@ $ git merge new_branch_name
 ```
 The Octocat challenge wasn't too bad, although I completely did not realse the concept of remote upstream is *different* from just origin connection I use to push and pull...well until near the end hahaha.  I probably still don't 100% get it, but at least I now know its something different and know how to set it up.  What fun!  We will all get there!
 
+![](http://www.focus.org/assets/images/blog/post-image/prayer.jpg)
+
