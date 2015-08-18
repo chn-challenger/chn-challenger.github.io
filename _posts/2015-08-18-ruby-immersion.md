@@ -11,4 +11,6 @@ So as I immerged myself Ruby, after CP's book, I also did ruby-kickstart, finish
 
 ![](http://cdn.meme.am/instances/500x/57782504.jpg)
 
+Last but not least, met my mentor today and had a nice pairing session, I think I now get the structure of the pairing session.  Looking forward to do some more!
+
 
