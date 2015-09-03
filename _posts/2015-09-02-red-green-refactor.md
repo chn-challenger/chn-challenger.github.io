@@ -5,11 +5,11 @@ title: Red -> Green -> Refactor by Joe Zhou and Michael Roger
 
 In short, red-green-refactor (RGR from this point on) is a mini TDD (test driven development) cycle.  The basic steps are:
 
-Red:  Make a failing unit test to test a small feature.
+* Red:  Make a failing unit test to test a small feature.
 
-Green:  Write minimal amount of code to make the test pass.
+* Green:  Write minimal amount of code to make the test pass.
 
-Refactor:  Make the code readable, efficient and general with a view to scalability.
+* Refactor:  Make the code readable, efficient and general with a view to scalability.
 
 ![](http://i.imgur.com/Y3LxecJ.png)
 _Repeat this cycle for each small unit of features or user requirements._
